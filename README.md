@@ -1,6 +1,3 @@
-# tAReign
-Project Repo for CS498 VR DnD Tabletop AR App
-
 ## Downloads
 [tAReign Android App](https://github.com/tAReign/tAReign/raw/master/tAReign.apk)
 
